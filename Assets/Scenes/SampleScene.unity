@@ -490,7 +490,7 @@ WheelCollider:
   m_Center: {x: 0, y: 0, z: 0}
   m_Radius: 0.5
   m_SuspensionSpring:
-    spring: 90000
+    spring: 70000
     damper: 9000
     targetPosition: 0.5
   m_SuspensionDistance: 0.3
@@ -545,7 +545,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.863, y: 0.477, z: 1.47}
-  m_LocalScale: {x: 1, y: 0.7522745, z: 1}
+  m_LocalScale: {x: 1, y: 0.7433041, z: 1.4129}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1500296070}
@@ -787,7 +787,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.863, y: 0.477, z: -1.3820001}
-  m_LocalScale: {x: 1, y: 0.7522745, z: 1}
+  m_LocalScale: {x: 1, y: 0.7433041, z: 1.4129}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1500296070}
@@ -2427,7 +2427,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.841, y: 0.477, z: 1.47}
-  m_LocalScale: {x: 1, y: 0.7522745, z: 1}
+  m_LocalScale: {x: 1, y: 0.7433041, z: 1.4129}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1500296070}
